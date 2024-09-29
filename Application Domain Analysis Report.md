@@ -6,8 +6,8 @@ This an application domain analysis report for an 8-bit CPU simulator intended f
 ### Domain Overview
 The processor will be used in disadvantaged regions such as rural areas, where cellullar system infrastructure is poor.Text-based communication and mobile money transactions are the two primary functions delivered.Devices which will provide accessibility to these sevices will be kept cheap to maintain low-cost of services. The processor will be power-efficient enough to perform error correction, transaction validation, and basic message processing.
 
-Key Functionalities:
-Text-based communicaton: Devices will support basic messaging services such as SMS protocols.
+### Key Functionalities:
+Text-based communicaton:Devices will support basic messaging services such as SMS protocols.
 Mobile money transactions: Secure and efficient processing of mobile payments, including balance checks, transfers, and bill payments.
 ### User Requirements
 These devices users will be working in limited resource conditions. As a result, the CPU must satsfy these important requirement:
